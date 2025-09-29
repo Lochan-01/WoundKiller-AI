@@ -1,0 +1,1 @@
+- [x] Remove the "Account already exists" check in signup logic in Login.jsx to allow signup even if an account exists, ensuring the error isn't shown when no account is created.

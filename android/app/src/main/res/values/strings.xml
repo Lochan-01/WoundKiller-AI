@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">woundkiller</string>
+    <string name="title_activity_main">woundkiller</string>
+    <string name="package_name">com.woundkiller.app</string>
+    <string name="custom_url_scheme">com.woundkiller.app</string>
+</resources>
