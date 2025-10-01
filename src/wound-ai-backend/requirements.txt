@@ -11,3 +11,8 @@ pillow
 numpy
 
 tensorflow
+
+python-multipart
+sqlalchemy
+aiosqlite
+
