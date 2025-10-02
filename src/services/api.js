@@ -1,4 +1,4 @@
-const API_URL = "https://woundkiller-ai-backend.onrender.com";
+const API_URL = "https://woundkiller-ai.onrender.com";
 
 export async function uploadWoundImage(file) {
   const formData = new FormData();
