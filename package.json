@@ -1,6 +1,4 @@
-"scripts": {
-  "start": "node src/wound-ai-backend/server.js"
-}
+
 
 {
   "name": "my-app",
