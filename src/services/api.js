@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://woundkiller-ai-backend.onrender.com";
 
 export async function uploadWoundImage(file) {
   const formData = new FormData();
